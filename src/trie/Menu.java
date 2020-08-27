@@ -5,10 +5,7 @@
  */
 package trie;
 
-/**
- *
- * @author Dell
- */
+
 public class Menu extends javax.swing.JFrame {
 
     /**
