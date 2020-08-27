@@ -14,10 +14,7 @@ import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.nio.file.*;
 
-/**
- *
- * @author Dell
- */
+
 public class Similar extends javax.swing.JFrame {
 
     /**
