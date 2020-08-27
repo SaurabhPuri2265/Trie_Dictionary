@@ -16,10 +16,7 @@ import java.io.*;
 import javax.swing.*;
 
 
-/**
- *
- * @author Dell
- */
+
 public class Insert extends javax.swing.JFrame {
 
     /**
