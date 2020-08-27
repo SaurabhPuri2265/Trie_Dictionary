@@ -15,10 +15,7 @@ import java.io.IOException;
 import java.nio.file.*;
 
 
-/**
- *
- * @author Dell
- */
+
 public class WordDay extends javax.swing.JFrame {
 
     /**
