@@ -8,10 +8,7 @@ import org.jdesktop.swingx.autocomplete.AutoCompleteDecorator;
 import java.awt.event.*;
 import java.awt.*;
 
-/**
- *
- * @author Dell
- */
+
 public class Search extends javax.swing.JFrame {
 
     /**
